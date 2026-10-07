@@ -1,4 +1,4 @@
-![Dashboard Preview](powerBi.png)
+![Dashboard Preview](PowerBi.png)
 # Capmas-Dashboard
 # CAPMAS Household Income & Living Standards Dashboard
 
